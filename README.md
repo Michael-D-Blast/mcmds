@@ -1,0 +1,2 @@
+# mcmds
+practice linux commands
